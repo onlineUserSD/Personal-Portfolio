@@ -13,6 +13,7 @@ import pythonLogo from './assets/tech_logo/python.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
+
  
 
  export const SkillsInfo = [
